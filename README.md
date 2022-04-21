@@ -1,19 +1,19 @@
-# NBT-ItemData
+# NBT-ItemData.
 A 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds a Dupe Checker to Skyblock
-# NBT Dupe checker
+# NBT Dupe checker.
 
 ### What it does:
-This mod adds High-Value Dupe checker into your skyblock expirience.
+This mod adds High-Value Dupe checker into your skyblock experience.
 ![image](https://user-images.githubusercontent.com/87954549/161400582-dc79f4cc-b46c-46f6-9e94-21bae374eb03.png)
 
 ### NBT Dupe Checker Download:
 
-A side mod of Skytils/Sbe, A amazing Dupe Checker.
-although SBE and Skyitls are better in different aspects, NBT is better overall for dupe checking, as skytils and SBE's api lacks in quality.
+A side mod of Skytils/Sbe, An amazing Dupe Checker.
+although SBE and Skytils are better in different aspects, NBT is better overall for dupe checking, as skytils and SBE's api lacks in quality.
 
 This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/937147258217054229/966821338922754128/NBTitemData-1.1.1.jar)
 
-### DISCLAIMER
+### DISCLAIMER.
 [I] SKYTILS WILL OVERRIDE THE FEATURES OF THIS MOD, IN MOST CASES SKYTILS WILL NOT WORK [I]
 In Order for this mod to work properly, you will have to delete BSMOD / Skytils. 
 
