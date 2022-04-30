@@ -13,10 +13,13 @@ although SBE and Skytils are better in different aspects, NBT is better overall 
 
 This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/937147258217054229/969404402786005012/NBTitemData-1.7.5.jar)
 
-### DISCLAIMER.
-[I] SKYTILS WILL OVERRIDE THE FEATURES OF THIS MOD, IN MOST CASES SKYTILS WILL NOT WORK [I]
-In Order for this mod to work properly, you will have to delete BSMOD / Skytils. 
+### Update 1.7.5
+Skytils Support, Better api, Faster response time, Cleaner GUI, 1.7.5 is here.
 
+Bug Fixes, 1.7.4 Version had GUI misplacement error (FIXED)
+Not Duped items getting flagged 1.7.2 Version had some stashed items getting flagged (FIXED)
+Overall fixes;
+Credits, skytils support, gui fixes, etc.
 
 ### Why is this useful?
 Many players have been wiped before, Now this will prevent it. Don't buy anything before Dupe-Checking it!
