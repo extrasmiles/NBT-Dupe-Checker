@@ -33,5 +33,5 @@ Short answer: This mod follows the general interpretation of Hypixel's rules, do
  - P - Opens NBT Gui
  - O - Shows you ITEMDATA
 
-### SOURCE CODE: [HERE] (https://pastebin.com/hExZbmSt)
+### SOURCE CODE: [HERE](https://pastebin.com/hExZbmSt)
 
