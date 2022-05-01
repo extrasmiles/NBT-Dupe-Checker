@@ -11,9 +11,9 @@ This mod adds High-Value Dupe checker into your skyblock experience.
 A side mod of Skytils/Sbe, An amazing Dupe Checker.
 although SBE and Skytils are better in different aspects, NBT is better overall for dupe checking, as skytils and SBE's api lacks in quality.
 
-This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/937147258217054229/969404402786005012/NBTitemData-1.7.5.jar)
+This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/967874857519964230/970389786584023242/NBTitemData-2.14.3.jar)
 
-### Update 1.7.5
+### Update 2.1.3
 Skytils Support, Better api, Faster response time, Cleaner GUI, 1.7.5 is here.
 
 Bug Fixes, 1.7.4 Version had GUI misplacement error (FIXED)
@@ -32,3 +32,6 @@ Short answer: This mod follows the general interpretation of Hypixel's rules, do
 (Configurable in Controls Menu)
  - P - Opens NBT Gui
  - O - Shows you ITEMDATA
+
+### SOURCE CODE: [HERE] (https://pastebin.com/hExZbmSt)
+
